@@ -1,5 +1,8 @@
 public class A{
 public void run(){
 	int x =10;
+
+int y = 20;
+
 }
 }
