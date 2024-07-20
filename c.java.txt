@@ -1,0 +1,7 @@
+public class C{
+
+public String output(){
+
+System.out.println("hello");
+}
+}
